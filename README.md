@@ -1,4 +1,4 @@
-# Voice-Signal-Processing-using-Python
+# Voice-Signal-Processing-using-Python-GUI
 In this project we used TESS voice dataset  and  processed it and perform emotion prediction
 The principal objective of this endeavor is to employ sophisticated Signal Processing methodologies for the
 purpose of decoding and scrutinizing emotional cues present in speech signals. By means of meticulous
