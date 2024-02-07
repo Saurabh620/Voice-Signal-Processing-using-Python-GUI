@@ -17,7 +17,6 @@ STEPS TO RUN THIS PROJECT
 
 first download the dataset and add your path for dataset
 run pip install, " -r requirements.txt",
-
 run firstly MainProgram
 then for GUI run Launcher
 ------------------------------------------------------------------------------------
