@@ -1,10 +1,8 @@
 # Voice-Signal-Processing-using-Python-GUI
 In this project we used TESS voice dataset  and  processed it and perform emotion prediction
 The principal objective of this endeavor is to employ sophisticated Signal Processing methodologies for the
-purpose of decoding and scrutinizing emotional cues present in speech signals. By means of meticulous
-feature extraction and thorough analysis, the intent is to unravel complex emotional patterns and correlations
-that are intricately woven into spoken language, thereby promoting a more profound comprehension of
-emotional expression through Signal Processing techniques.
+purpose of decoding and scrutinizing emotional cues present in speech signals. 
+-------------------------------------------------------------------------------
 CNN and LSTM model is used in this project
 The system must effectively prepare the TESS dataset through various preprocessing steps, ensuring the data
 is cleaned, normalized, and segmented for consistent analysis. It should implement signal processing
@@ -20,6 +18,7 @@ first download the dataset and add your path for dataset
 run pip install -r requirements.txt
 run firstly MainProgram
 then for GUI run Launcher
+------------------------------------------------------------------------------------
 use Jupyter for best result
 --------------------------------------------------------------------------------------
 If you want documentation of this project and some help ,mail me on rawatsaurabh620@gmail.com
