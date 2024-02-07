@@ -14,8 +14,10 @@ https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
 -------------------------------------------------------------------------------
 STEPS TO RUN THIS PROJECT
+
 first download the dataset and add your path for dataset
-run pip install -r requirements.txt
+run pip install, " -r requirements.txt",
+
 run firstly MainProgram
 then for GUI run Launcher
 ------------------------------------------------------------------------------------
