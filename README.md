@@ -12,3 +12,5 @@ techniques such as waveplot generation, spectrogram computation, and feature ext
 MFCCs and Mel spectrograms to capture essential audio features.
 Dataset used in this project Toronto emotional speech set (TESS)
 https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+
+If you want documentation of this project and some help ,mail me on rawatsaurabh620@gmail.com
