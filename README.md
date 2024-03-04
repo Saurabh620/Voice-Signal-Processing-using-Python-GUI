@@ -1,6 +1,7 @@
 # Voice-Signal-Processing-using-Python-GUI
-![logo](https://github.com/Saurabh620/Voice-Signal-Processing-using-Python-GUI/blob/main/Screenshot%202023-12-21%20192640.png)
 ![logo](https://github.com/Saurabh620/Voice-Signal-Processing-using-Python-GUI/blob/main/Screenshot%202023-12-21%20190431.png)
+![logo](https://github.com/Saurabh620/Voice-Signal-Processing-using-Python-GUI/blob/main/Screenshot%202023-12-21%20192640.png)
+
 
 
 In this project we used TESS voice dataset  and  processed it and perform emotion prediction
